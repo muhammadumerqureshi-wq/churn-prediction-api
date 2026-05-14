@@ -24,3 +24,16 @@ python churn_flask_api.py
 ## Usage
 curl -X POST http://localhost:5000/predict \
   -d '{"tenure": 12, "MonthlyCharges": 65.5, ...}'
+ 
+Author
+
+**Muhammad Umer Qureshi**
+
+📧 Email: muhammadumerqureshi39@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/umer-qureshi-243b12387
+
+💻 GitHub: https://github.com/muhammadumerqureshi-wq
+
+##License
+MIT LICENSE
